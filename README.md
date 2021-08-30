@@ -6,7 +6,6 @@ An Implementation of <a href="https://github.com/mravanelli/SincNet">SincNet</a>
 # SincNet
 SincNet is a neural architecture for processing **raw audio samples**. It is a novel Convolutional Neural Network (CNN) that encourages the first convolutional layer to discover more **meaningful filters**. SincNet is based on parametrized sinc functions, which implement band-pass filters. [Arxiv](http://arxiv.org/abs/1808.00158)
 
-<img src="https://github.com/AryaAftab/sincnet-tensorflow/blob/master/image/SincNet.png" width="400" img align="right">
 
 
 ## Usage
