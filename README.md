@@ -11,7 +11,7 @@ SincNet is a neural architecture for processing **raw audio samples**. It is a n
 
 ```bash
 $ pip install sincnet-tensorflow
-`
+```
 
 
 ## Usage
