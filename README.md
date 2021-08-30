@@ -10,7 +10,7 @@ SincNet is a neural architecture for processing **raw audio samples**. It is a n
 ## Install
 
 ```bash
-$ pip install rotary-embedding-tensorflow
+$ pip install sincnet-tensorflow
 `
 
 
